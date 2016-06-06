@@ -3,8 +3,8 @@
  * @Author Javid Niftaliyev
  * Student ID: 300742916
  * @description: This is the main javascript file for the current web site.
- * Website(Azure): http://assign1-my-mini-portfolio-site.azurewebsites.net/
- * Website(Github): https://github.com/Web1017/Assignment-1---Mini-Portfolio-Site
+ * Website(Azure): http://comp125-lab3-bower.azurewebsites.net/index.html
+ * Website(Github): https://github.com/Web1017/Comp125-Lab3-Bower-and-Web-Fonts
  * 
  */
 //IIFE - Immediately invoked Expression 
